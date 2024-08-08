@@ -1,7 +1,7 @@
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/REDzHUB/LibraryV2/main/redzLib")))()
 MakeWindow({
   Hub = {
-    Title = "Friez Hub ---- By Friez and Kitler",
+    Title = "Speed Hub - By Friez and Kitler",
     Animation = "by : Kitler"
   },
   Key = {
